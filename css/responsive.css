@@ -80,10 +80,6 @@
 
 /* about img  */
 
-
-
-
-
 .aft_bef::before {
     position: absolute;
     content: '';
